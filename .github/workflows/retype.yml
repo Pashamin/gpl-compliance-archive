@@ -1,0 +1,21 @@
+name: Publish Retype Docs
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build Retype docs
+        uses: retypeapp/action-build@v3
+
+      - name: Push docs to gh-pages branch
+        uses: retypeapp/action-github-pages@v3
+        with:
+          update-branch: true
