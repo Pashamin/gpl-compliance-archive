@@ -1,0 +1,31 @@
+site:
+  title: GPL Code Hub
+  url: https://Pashamin.github.io/gpl-compliance-archive # Замени на свою ссылку GitHub Pages
+  copyright: "© GPL-3.0 License. Открытый код для всех."
+
+branding:
+  title: GPL Hub
+  label: Docs
+
+
+links:
+  - text: RU
+    link: /
+  - text: EN
+    link: /en/
+  - text: GitHub
+    link: https://github.com/Pashamin/gpl-compliance-archive
+
+footer:
+  links:
+    - text: GitHub
+      link: https://github.com/Pashamin/gpl-compliance-archive
+
+navigation:
+  primary:
+    - label: Главная
+      link: /
+    - label: С чего начать
+      link: /getting-started/
+    - label: English Section
+      link: /en/
