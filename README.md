@@ -2,7 +2,7 @@
 
 Welcome to the official, decentralized mirror archive for copyleft-licensed source code, actively maintained by the **Crystal OS** development team.
 
-**Official Portal:** [crystal-os.is-a.dev](https://is-a.dev)  
+**Official Portal:** [*click*](https://pashamin.github.io/gpl-compliance-archive/) 
 **Inquiries & Legal Contacts:** `card.corporation2023@gmail.com`
 
 ---
